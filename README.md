@@ -2,13 +2,6 @@
 
 This project is a **Personal Portfolio** website built using **HTML**, **CSS**, and some basic **JavaScript**. It is designed to showcase frontend development skills, including layout, design, and responsiveness, with a focus on writing clean, structured code.
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Installation](#installation)
-
 ## ✨ Features
 
 - Fully responsive design
